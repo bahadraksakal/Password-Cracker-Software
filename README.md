@@ -1,4 +1,5 @@
-# Password_Cracker_Software_AAA
-This program finds passwords.
+# Password Cracker Software 
+
+This program guess password after that find the password.
 
 This program contains Runnable and Task topics.
